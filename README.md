@@ -8,3 +8,7 @@ Le principe est le même que celui qu’on a mis en œuvre au cours 5 avec le ce
 - utiliser le display flex
 - utiliser les unités %
 - créer un reset des styles de base avec sélecteur universel *
+
+## Reproduire cette structure de page
+
+![structure à reproduire](https://github.com/oldwideweb/2026-cours6-structure-de-page/main/templateimg.png)
