@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: bisque;
+    font-family: sans-serif;
+}
+
+.container
+{
+    background-color: rgb(160, 129, 90);
+}
+
+header
+{
+    background-color: gold;
+    height: 160px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+nav
+{
+    background-color: brown;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
