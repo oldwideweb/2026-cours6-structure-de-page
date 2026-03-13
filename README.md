@@ -11,4 +11,4 @@ Le principe est le même que celui qu’on a mis en œuvre au cours 5 avec le ce
 
 ## Reproduire cette structure de page
 
-![structure à reproduire](https://github.com/oldwideweb/2026-cours6-structure-de-page/main/templateimg.png)
+![structure à reproduire](templateimg.png)
